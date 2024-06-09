@@ -11,7 +11,7 @@ title:  "Dan Shoji"
 --- 
 <br>
 
-## Sobre mim 😁😁
+## Sobre mim 😁
 
 Olá! Eu sou o Dan (sim apenas Dan)!
 Sou de Mogi das Cruzes, ingressei na USP em 2024 e no momento estou cursando Engenharia de Computação na Escola Politécnica da Universidade de São Paulo EP-USP.
